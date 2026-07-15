@@ -1,5 +1,5 @@
 # 🚀 JavaScript Complete Notes
- <img width="993" height="662" alt="image" src="https://github.com/user-attachments/assets/7d1ea022-ea88-41ef-81f3-af79400666f1" />
+ <img width="941" height="645" alt="image" src="https://github.com/user-attachments/assets/cf5301ef-e123-4d39-ba64-de8f5cd4804a" />
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
